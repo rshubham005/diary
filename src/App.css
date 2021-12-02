@@ -1,0 +1,25 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.demoPage
+{
+  background-color: #E0C9A6;
+  padding: 20px;
+  /* font-family: 'Patrick Hand', cursive; */
+}
+.demoPage img
+{
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+}
+.demoPage p
+{
+  padding: 10px;
+  font-family: 'Kalam', cursive;
+  font-weight: 700;
+  font-size: 22px;
+}
